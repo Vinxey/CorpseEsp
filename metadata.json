@@ -1,0 +1,8 @@
+{
+  "name": "CorpseEsp",
+  "creator": "Vinxey",
+  "entry": "index.js",
+  "description": "just CorpseEsp from cw",
+  "version": "1.0.0",
+  "requires": ["Coleweight","axios", "PogData", "Vigilance", "Elementa", "requestV2"]
+}
